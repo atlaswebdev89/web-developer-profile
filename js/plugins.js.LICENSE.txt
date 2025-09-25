@@ -1,0 +1,29 @@
+/*!
+   * Name    : Video Worker
+   * Version : 2.0.0
+   * Author  : nK <https://nkdev.info>
+   * GitHub  : https://github.com/nk-o/video-worker
+   */
+
+/*!
+ * MDB5
+ *   Version: FREE 3.3.0
+ * 
+ * 
+ *   Copyright: Material Design for Bootstrap
+ *   https://mdbootstrap.com/
+ * 
+ *   Read the license: https://mdbootstrap.com/general/license/
+ * 
+ * 
+ *   Documentation: https://mdbootstrap.com/docs/standard/
+ * 
+ *   Support: https://mdbootstrap.com/support/
+ * 
+ *   Contact: office@mdbootstrap.com
+ * 
+ */
+
+/*! jQuery v3.6.0 | (c) OpenJS Foundation and other contributors | jquery.org/license */
+
+/*! skrollr 0.6.26 (2014-06-08) | Alexander Prinzhorn - https://github.com/Prinzhorn/skrollr | Free to use under terms of MIT license */
